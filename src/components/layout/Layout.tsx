@@ -6,8 +6,7 @@ const Layout: FC<{ children: ReactNode }> = ({ children }) => {
 	return (
 		<div className='container'>
 			<div className={`${styles.container}`}>
-				<SideBar />
-				{children}
+				<SideBar />f{children}
 			</div>
 		</div>
 	)
