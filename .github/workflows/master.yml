@@ -30,4 +30,4 @@ jobs:
         VERCEL_TOKEN: PQuxTEv9I661FCqO8cgtoAjZ  
       run: |
         echo "Deploying to Vercel..."
-        npx vercel deploy --prod --token=$VERCEL_TOKEN
+        npx vercel deploy --prod --token=PQuxTEv9I661FCqO8cgtoAjZ
