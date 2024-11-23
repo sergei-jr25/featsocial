@@ -1,0 +1,80 @@
+{
+	"events": [
+		{
+			"id": 1,
+			"img": "/assets/images/events-1.png",
+			"text": "Тяга резинки в шаге со сгибанием локтя под 90 градусов ",
+			"info": {
+				"vebinar": {
+					"icon": "/assets/images/events-1.svg",
+					"title": "Вебинар"
+				},
+				"date": {
+					"icon": "/assets/images/events-2.svg",
+					"title": "9 марта 2021"
+				},
+				"time": {
+					"icon": "/assets/images/events-3.svg",
+					"title": "17:00"
+				}
+			}
+		},
+		{
+			"id": 2,
+			"img": "/assets/images/events-1.png",
+			"text": "Тяга резинки в шаге со сгибанием локтя под 90 градусов ",
+			"info": {
+				"vebinar": {
+					"icon": "/assets/images/events-1.svg",
+					"title": "Вебинар"
+				},
+				"date": {
+					"icon": "/assets/images/events-2.svg",
+					"title": "9 марта 2021"
+				},
+				"time": {
+					"icon": "/assets/images/events-3.svg",
+					"title": "17:00"
+				}
+			}
+		},
+		{
+			"id": 3,
+			"img": "/assets/images/events-1.png",
+			"text": "Тяга резинки в шаге со сгибанием локтя под 90 градусов ",
+			"info": {
+				"vebinar": {
+					"icon": "/assets/images/events-1.svg",
+					"title": "Вебинар"
+				},
+				"date": {
+					"icon": "/assets/images/events-2.svg",
+					"title": "9 марта 2021"
+				},
+				"time": {
+					"icon": "/assets/images/events-3.svg",
+					"title": "17:00"
+				}
+			}
+		},
+		{
+			"id": 4,
+			"img": "/assets/images/events-1.png",
+			"text": "Тяга резинки в шаге со сгибанием локтя под 90 градусов ",
+			"info": {
+				"vebinar": {
+					"icon": "/assets/images/events-1.svg",
+					"title": "Вебинар"
+				},
+				"date": {
+					"icon": "/assets/images/events-2.svg",
+					"title": "9 марта 2021"
+				},
+				"time": {
+					"icon": "/assets/images/events-3.svg",
+					"title": "17:00"
+				}
+			}
+		}
+	]
+}

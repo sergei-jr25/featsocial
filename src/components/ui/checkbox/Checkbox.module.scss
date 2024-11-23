@@ -1,0 +1,43 @@
+.checkbox {
+	position: relative;
+
+	input {
+		position: absolute;
+		width: 0;
+		height: 0;
+		opacity: 0;
+	}
+	&:checked + .checkbox__element:before {
+		border: none;
+		outline: none;
+	}
+	&__element {
+		cursor: pointer;
+		display: inline-flex;
+		align-items: center;
+		position: relative;
+		gap: 10px;
+		&:before {
+			content: '';
+
+			align-self: flex-start;
+			flex: 0 0 20px;
+			width: 20px;
+			height: 20px;
+			border: 1px solid #cdcdcd;
+			transition: background-color 0.3s, background-image, 0.3s;
+			border-radius: 4px;
+		}
+	}
+
+	&_select {
+		.checkbox__element {
+			background-color: #4198c5;
+			background-image: url('../../../assets/images/shape.png');
+			background-size: 8px 8px;
+			background-position: 50% 50%;
+			background-repeat: no-repeat;
+			border-radius: 4px;
+		}
+	}
+}

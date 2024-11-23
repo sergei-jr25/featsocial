@@ -1,0 +1,64 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"img": "/assets/images/user-1.png",
+			"name": "Кравцова Александра",
+			"icon": ""
+		},
+		{
+			"id": 2,
+			"img": "/assets/images/user-10.png",
+			"name": "Рожков Денис ",
+			"icon": ""
+		},
+		{
+			"id": 3,
+			"img": "/assets/images/user-3.png",
+			"name": "Кравцова Александра",
+			"icon": ""
+		},
+		{
+			"id": 4,
+			"img": "/assets/images/user-4.png",
+			"name": "Диброва Алевтина",
+			"icon": ""
+		},
+		{
+			"id": 5,
+			"img": "/assets/images/user-5.png",
+			"name": "Иванов Дмитрий",
+			"icon": ""
+		},
+		{
+			"id": 6,
+			"img": "/assets/images/user-6.png",
+			"name": "Форс Александр",
+			"icon": ""
+		},
+		{
+			"id": 7,
+			"img": "/assets/images/user-9.png",
+			"name": "Ахмедов Артур",
+			"icon": ""
+		},
+		{
+			"id": 8,
+			"img": "/assets/images/user-7.png",
+			"name": "Блажевич Игорь",
+			"icon": ""
+		},
+		{
+			"id": 9,
+			"img": "/assets/images/user-2.png",
+			"name": "Валиева Руфина",
+			"icon": ""
+		},
+		{
+			"id": 10,
+			"img": "/assets/images/user-3.png",
+			"name": "Волошина Виктория",
+			"icon": ""
+		}
+	]
+}

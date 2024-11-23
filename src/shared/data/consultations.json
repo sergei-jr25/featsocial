@@ -1,0 +1,23 @@
+{
+	"consultations": [
+		{
+			"id": 1,
+			"title": "Online консультация",
+			"date": "15.01.2019, 12:30-13:00",
+			"icon": "/assets/images/сombined.svg"
+		},
+		{
+			"id": 2,
+			"title": "Online консультация",
+			"date": "15.01.2019, 12:30-13:00",
+			"icon": "/assets/images/сombined.svg"
+		},
+		{
+			"id": 3,
+			"title": "Личный приём",
+			"date": "15.01.2019, 12:30-13:00",
+			"state": "Не подтверждена",
+			"icon": "/assets/images/сombined.svg"
+		}
+	]
+}

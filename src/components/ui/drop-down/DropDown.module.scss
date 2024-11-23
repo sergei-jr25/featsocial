@@ -1,0 +1,25 @@
+.dropDown {
+	position: absolute;
+	width: 230px;
+	z-index: 2;
+	top: 30px;
+
+	border-radius: 8px;
+	box-shadow: 0 2px 16px 0 rgba(34, 34, 34, 0.16);
+	&__item {
+		padding: 20px;
+		display: block;
+		width: 100%;
+		color: #161718;
+		text-align: left;
+		font-size: 14px;
+		line-height: 16.71px;
+		background-color: #fff;
+		transition: background-color 0.3s ease 0s;
+		@media (any-hover: hover) {
+			&:hover {
+				background-color: #f1f2f3;
+			}
+		}
+	}
+}

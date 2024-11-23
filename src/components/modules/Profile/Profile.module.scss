@@ -1,0 +1,25 @@
+.profile {
+	padding: 10px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 8px;
+	display: flex;
+	align-items: flex-start;
+	&__image {
+		width: 90px;
+		height: 90px;
+		margin: 0px 14px 0px 0px;
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+	}
+
+	&__info {
+		flex: 1 1 auto;
+	}
+
+	&__editor {
+		background-color: #fff;
+	}
+}

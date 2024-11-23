@@ -1,0 +1,27 @@
+.sort {
+	display: flex;
+	align-items: center;
+	padding: 13px 10px;
+	background-color: #ffffff;
+}
+
+.button {
+	width: 34px;
+	height: 34px;
+	flex: 0 0 34px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #f1f2f3;
+	border-radius: 50%;
+}
+.input {
+	width: 100%;
+	padding: 0 10px;
+}
+
+.buttons {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
