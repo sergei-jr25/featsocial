@@ -3,9 +3,11 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - master
+     - feature/*
+     - master
   pull_request:
     branches:
+      - develop
       - master
 
 jobs:
