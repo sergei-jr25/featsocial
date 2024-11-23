@@ -27,5 +27,5 @@ jobs:
 
     - name: Deploy to production
       env:
-        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        VERCEL_TOKEN: MVyqyPv0XGMNYMlGvUrriMHy
       run: npx vercel deploy --prod --token=MVyqyPv0XGMNYMlGvUrriMHy --debug
