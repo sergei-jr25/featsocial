@@ -27,7 +27,7 @@ jobs:
 
     - name: Deploy to production
       env:
-        VERCEL_TOKEN: PQuxTEv9I661FCqO8cgtoAjZ  
+        VERCEL_TOKEN: MVyqyPv0XGMNYMlGvUrriMHy
       run: |
         echo "Deploying to Vercel..."
-        npx vercel deploy --prod --token=PQuxTEv9I661FCqO8cgtoAjZ
+        npx vercel deploy --prod --token=MVyqyPv0XGMNYMlGvUrriMHy
